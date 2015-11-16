@@ -1,7 +1,7 @@
 ![General Assembly Logo](http://i.imgur.com/ke8USTq.png)
 
-Relational and Non-relational Databases
-=======================================
+Discussion: Relational and Non-relational Databases
+===================================================
 
 Obectives
 ---------
