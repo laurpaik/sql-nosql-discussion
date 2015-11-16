@@ -15,10 +15,13 @@ By the end of this discussion, students should be able to:
 Introduction
 ------------
 
-Read the following:
-- [NoSQL Databases Explained | MongoDB](https://www.mongodb.com/nosql-explained) (5 minutes)
-- [MongoDB Use Cases](http://docs.mongodb.org/ecosystem/use-cases/) (click through to at least one detailed example; 10 minutes)
-- [Why You Sould Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/) (10 minutes)
+You should have read the following:
+
+- [NoSQL Databases Explained | MongoDB](https://www.mongodb.com/nosql-explained)
+- [MongoDB Use Cases](http://docs.mongodb.org/ecosystem/use-cases/)
+- [Why You Sould Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+
+Take five minutes to review these readings. Just skim to refresh your memory. Then, take fifteen minutes to share your notes with your classmates to prepare for discussion.
 
 Discussion
 ----------
@@ -34,10 +37,12 @@ Discussion
 Compare & Contrast
 ------------------
 
-On your own time, put together a list of similarities and differences between relational and non-relational databases. You can start with comparisons provided by specific vendors, such as the one found in [NoSQL Databases Explained](https://www.mongodb.com/nosql-explained). You might wish to organize your thoughts with a [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram) or a series of tables.
+Put together a list of similarities and differences between relational and non-relational databases. You can start with comparisons provided by specific vendors, such as the one found in [NoSQL Databases Explained](https://www.mongodb.com/nosql-explained). You might wish to organize your thoughts with a [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram) or a series of tables.
 
 Additional Readings
 -------------------
+
+Pick an additional reading to go through with a classmate. Reflect on how the article changes the discussion. What have you learned?
 
 - [What the heck are you actually using NoSQL for?](http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html)
 - [A co-Relational Model of Data for Large Shared Data Banks](http://queue.acm.org/detail.cfm?id=1961297&repost)
