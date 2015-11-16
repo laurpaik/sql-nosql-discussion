@@ -6,7 +6,7 @@ Discussion: Relational and Non-relational Databases
 Obectives
 ---------
 
-By the nd of this discussion, students should be able to:
+By the end of this discussion, students should be able to:
 
 - Identify use cases where relational or non-relational databases are appropriate.
 - List three strengths of relational databases.
