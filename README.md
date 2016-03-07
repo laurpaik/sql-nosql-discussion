@@ -20,8 +20,9 @@ You should have read the following:
 -   [Why You Sould Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 
 Take five minutes to review these readings. Just skim to refresh your memory.
-Then, take fifteen minutes to share your notes with your classmates to prepare
-for discussion.
+Then, take fifteen minutes to share your notes with your classmates and to
+prepare for discussion. Discuss with each other and attempt to answer the
+following questions.
 
 ## Discussion
 
