@@ -2,7 +2,7 @@
 
 # Discussion: Relational and Non-relational Databases
 
-## Obectives
+## Objectives
 
 By the end of this, developers should be able to:
 
